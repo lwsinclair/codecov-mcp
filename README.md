@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/stedwick-codecov-mcp-badge.png)](https://mseep.ai/app/stedwick-codecov-mcp)
+
 # Codecov MCP Server
 
 A Codecov Model Context Protocol server in TypeScript.
